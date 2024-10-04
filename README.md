@@ -1,2 +1,2 @@
 # TI-III #
-Repositório de códigos da disciplina de Trabalho Interdisciplinar III: Pesquisa Aplicada
+Repositório da disciplina de Trabalho Interdisciplinar III: Pesquisa Aplicada
